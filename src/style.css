@@ -1,0 +1,23 @@
+.navbarcss{
+    background-color: #4A86B5;
+    color: #ffffff;
+}
+
+#brand{
+    color:#4A86B5;
+    background-color: white;
+}
+
+#brand:hover{
+    color:white;
+    background-color:  #0F69AD;
+}
+
+.navlinks:hover{
+   background-color:  #0F69AD;
+}
+
+#cardheader{
+    background-color: #FCF8E3;
+    color:black
+}
